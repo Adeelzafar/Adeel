@@ -37,8 +37,6 @@ Rock Paper Scissors Dataset is a multi class dataset for learning computer visio
 
 
 
-
-
 ### Follow and Support
-For more interesting contact, follow my [Blog](https://medium.com/@adeelz).
+For more interesting content, follow my [Blog](https://medium.com/@adeelz).
 
