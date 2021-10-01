@@ -9,7 +9,7 @@ Just few years ago, Pet Breeds classification problem was considered challenging
 To practically perform the task we will be using the 20Newsgroups dataset from the sklearn library. We will be using SVD and NMF for our experimentation as there are other great resources for LDA and PLSA. please visit the [Blog](https://medium.com/analytics-vidhya/an-overview-of-topic-modeling-with-nlp-17d3bf3e3624) that explains the project and the dataset.
 
 
-![Image](/images/image2.png)
+![Image](/images/image2.jpg)
 
 
 
