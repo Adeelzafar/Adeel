@@ -1,33 +1,8 @@
-## Welcome to Adeel's Portfolio
+## Welcome to Adeel's Project Portfolio
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Adeelzafar/Adeel_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Classifying Pet Breeds
+We will execute this idea by coding an example of classifying Pet breeds. Just few years ago, this classification problem was considered challenging task. However, today it has become too easy! Thanks to the fastai and other such libraries. For the complete code, please visit the [GitHub link](https://github.com/Adeelzafar/My-Version-of-Fastai-Course/blob/main/PET_Breed_Prediction.ipynb)
 
 ### Support or Contact
 
