@@ -1,5 +1,11 @@
 # Welcome! Here you will find my latest projects
 
+### [Investigating Parody from Social Media Accounts](https://github.com/Adeelzafar/Investigating-Parody-from-Social-Media-Accounts)
+Parody is a widespread comic on different social media platforms. As the usage of social media increases, the number of parody accounts increases as well. The main purpose of parody accounts is to spread fake news or to criticize someone in comic ways. In this paper, we investigate parody for different social media accounts. For this study, a customized tweets dataset is created related to different Pakistani personalities and companies. The experiment is carried out using different machine learning and deep learning methods. Our results indicate an accuracy of 92% using RoBERTa.
+Paper Accepted in IEEE-SEEDA-CECNSM 2021
+
+![Image](/images/image5.jpeg)
+
 ### [Classifying Pet Breeds](https://github.com/Adeelzafar/My-Version-of-Fastai-Course/blob/main/PET_Breed_Prediction.ipynb)
 Just few years ago, Pet Breeds classification problem was considered challenging task. However, today it has become too easy! Thanks to the fastai and other such libraries. For the complete code, please visit the [Blog](https://medium.com/analytics-vidhya/the-learning-rate-finder-9203fdc67c92) that explains the project and the key concept of learning rate finder. 
 
