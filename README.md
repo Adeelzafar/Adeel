@@ -15,6 +15,11 @@ Paper Accepted in IEEE-SEEDA-CECNSM 2021
 
 ![Image](/images/image6.jpg)
 
+### [Building Multi-Label Text Classifiers for arXiv Paper Abstract Dataset](https://github.com/Adeelzafar/Kaggle/blob/main/predictions-using-ml-and-dl-methods.ipynb)
+Paper submission systems (CMT, OpenReview, etc.) require the users to upload their paper titles and paper abstracts and then specify the subject areas their papers best belong to. arXiv is a free distribution service and an open-access archive for 1,950,165 scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. It is mostly used for academicians to upload their papers. The Kaggle arXiv Paper Abstract Dataset provides more than 38000 unique paper titles along with their summaries and subject areas. It would be interesting if submission systems like arXiv provide viable subject area suggestions as to where the corresponding papers could be best associated with? Our task is to build a text classifier model that can predict the subject areas given paper abstracts and titles. Please visit the [Blog](https://medium.com/analytics-vidhya/building-multi-label-text-classifiers-for-arxiv-paper-abstract-dataset-1cc5353b3e96) that explains the project.
+
+![Image](/images/image6.jpg)
+
 ### [Classifying Pet Breeds](https://github.com/Adeelzafar/My-Version-of-Fastai-Course/blob/main/PET_Breed_Prediction.ipynb)
 Just few years ago, Pet Breeds classification problem was considered challenging task. However, today it has become too easy! Thanks to the fastai and other such libraries. For the complete code, please visit the [Blog](https://medium.com/analytics-vidhya/the-learning-rate-finder-9203fdc67c92) that explains the project and the key concept of learning rate finder. 
 
